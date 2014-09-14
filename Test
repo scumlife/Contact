@@ -1,0 +1,15 @@
+h2>Stuur een email naar filmpje:</h2>
+
+
+<form action="MAILTO:indilaria@gmail.com" method="post" enctype="text/plain">
+//Mailto/MAILTO:zetiets in email standaardprogrammma ding.
+Naam:<br>
+<input type="text" name="naam" value="Voer uw naam in"><br>
+
+E-mail:<br>
+<input type="text" name="mail" value="Uw email"><br>
+
+Bericht:<br>
+<input type="text" name="comment" value="Stel hier uw vraag" size="50" height="50" ><br><br>
+<input type="submit" value="Verstuur">
+</form>
