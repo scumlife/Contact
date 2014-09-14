@@ -7,9 +7,9 @@ Naam:<br>
 <input type="text" name="naam" value="Voer uw naam in"><br>
 
 E-mail:<br>
-<input type="text" name="mail" value="Uw email"><br>
+<input type="text" name="email" value="Uw email"><br>
 
 Bericht:<br>
-<input type="text" name="comment" value="Stel hier uw vraag" size="50" height="50" ><br><br>
+<input type="text" name="vraag" value="Stel hier uw vraag" size="50" height="50" ><br><br>
 <input type="submit" value="Verstuur">
 </form>
