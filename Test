@@ -1,4 +1,4 @@
-h2>Stuur een email naar filmpje:</h2>
+<h2>Stuur een email naar filmpje:</h2>
 
 
 <form action="MAILTO:indilaria@gmail.com" method="post" enctype="text/plain">
